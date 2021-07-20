@@ -1,0 +1,16 @@
+C:\Users\unnip\repos\CalAreaCrcl\bin\Debug\net5.0\CalAreaCrcl.exe
+C:\Users\unnip\repos\CalAreaCrcl\bin\Debug\net5.0\CalAreaCrcl.deps.json
+C:\Users\unnip\repos\CalAreaCrcl\bin\Debug\net5.0\CalAreaCrcl.runtimeconfig.json
+C:\Users\unnip\repos\CalAreaCrcl\bin\Debug\net5.0\CalAreaCrcl.runtimeconfig.dev.json
+C:\Users\unnip\repos\CalAreaCrcl\bin\Debug\net5.0\CalAreaCrcl.dll
+C:\Users\unnip\repos\CalAreaCrcl\bin\Debug\net5.0\ref\CalAreaCrcl.dll
+C:\Users\unnip\repos\CalAreaCrcl\bin\Debug\net5.0\CalAreaCrcl.pdb
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\CalAreaCrcl.csproj.AssemblyReference.cache
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\CalAreaCrcl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\CalAreaCrcl.AssemblyInfoInputs.cache
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\CalAreaCrcl.AssemblyInfo.cs
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\CalAreaCrcl.csproj.CoreCompileInputs.cache
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\CalAreaCrcl.dll
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\ref\CalAreaCrcl.dll
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\CalAreaCrcl.pdb
+C:\Users\unnip\repos\CalAreaCrcl\obj\Debug\net5.0\CalAreaCrcl.genruntimeconfig.cache
